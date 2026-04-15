@@ -1,0 +1,9 @@
+"(your mapname)"
+{
+    "material"  "overviews/de_rats_1337"  // texture file
+    "pos_x"        "-817 "// X coordinate,
+    "pos_y" "472"  // Y coordinate,
+    "scale"     "2.15"   // scale used when taking the screenshot
+    "rotate"    "0" // set to 1, if the map was rotated by 90 degrees in image editor
+    "zoom"      "1.3"   // optimal zoom factor if map is shown in full size
+}
