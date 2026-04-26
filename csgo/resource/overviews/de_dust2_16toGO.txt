@@ -1,0 +1,9 @@
+"de_dust2_16toGO"
+{
+	"material"	"overviews/de_dust2_16toGO"	// texture file
+	"pos_x"		"-2671"	// upper left world coordinate
+	"pos_y"		"2626"
+	"scale"		"5" 
+	//"rotate"	"1"
+	"zoom"		"1.9"	
+}
