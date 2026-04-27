@@ -1,9 +1,0 @@
-﻿<html>
-<p align="center">
-<br>
-<br>
-<br>
-<font color="white">Map converted from Digital Paintball Source by: </font><font color="#ff8400"><b>мя. ξмıиεм</b></font>
-<font color="#31ff01">STEAM_0:1:33165127</font>
-</p>
-<html>
